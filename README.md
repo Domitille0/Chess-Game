@@ -9,6 +9,7 @@ Packages pour les scripts python :
 
 - Python 
 - Pygame 
+- Enum
 
 ## Démarrer
 
