@@ -16,7 +16,7 @@ La partie commence en lançant le "main.py".
 
 ## Déroulement
 
-Tour à tour les joueurs sélectionnent une pièce à déplacer, puis une la case de destination avec la souris.
+Tour à tour les joueurs sélectionnent une pièce à déplacer, puis la case de destination avec la souris.
 La partie se termine lorsqu'il y a échec et mat.
 
 ## Auteurs
